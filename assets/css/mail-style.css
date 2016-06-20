@@ -1,0 +1,54 @@
+/* CSS Document */
+.box .box-head {
+	border:1px solid #aaa;
+	padding:8px 12px 6px 12px;
+	color:#444;
+	font-size:14px;
+	*zoom:1;
+	-webkit-box-shadow:#fff 0 1px 0 0 inset;
+	-moz-box-shadow:#fff 0 1px 0 0 inset;
+	box-shadow:#fff 0 1px 0 0 inset;
+	background:-webkit-gradient(linear,50% 0%,50% 100%,color-stop(0%,#fefefe),color-stop(100%,#f1f1f1));
+	background:-webkit-linear-gradient(#fefefe,#f1f1f1);
+	background:-moz-linear-gradient(#fefefe,#f1f1f1);
+	background:-o-linear-gradient(#fefefe,#f1f1f1);
+	background:linear-gradient(#fefefe,#f1f1f1)
+}
+
+.box .box-body {
+	border:1px solid #aaa;
+	background:#fefefe;
+	border-top:0;
+	padding:10px;
+	*zoom:1;
+	
+	-webkit-box-shadow:#fff 0 1px 0 0;
+	-moz-box-shadow:#fff 0 1px 0 0;
+	box-shadow:#fff 0 1px 0 0
+}
+.table .tbl-checkbox {
+	width:30px;
+	text-align:center
+}
+.table .tbl-checkbox input[type="checkbox"] {
+	margin:0
+}
+.table .tbl-date {
+	text-align:center;
+	width:150px
+}
+.table .tbl-lft {
+	width:200px
+}
+.table.tbl-mail>thead>tr th {
+	border-bottom:1px solid #bbb
+}
+.table.tbl-mail>tbody>tr:hover {
+	cursor:pointer
+}
+.table.tbl-mail>tbody>tr.act {
+	font-weight:bold
+}
+.table.mbzero {
+	margin-bottom:0
+}

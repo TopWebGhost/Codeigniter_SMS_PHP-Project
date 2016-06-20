@@ -1,0 +1,2 @@
+groupid,First Name,Last Name,company,website,email,address,address 2,state,city,zip code,country,phone,Password,Email Limit,SMS Limit,Email Permission,SMS Permission,status,default email gateway,default SMS Gateway
+1,Softvillage,BD,Softvillage BD LTD,softvillagebd.com,support@softvillagebd.com,"Road# 35, Gulshan 2","Gulshan 2, Dhaka",Gulshan,Dhaka,1212,BD,8800000000000,client.password,0,0,1,1,Active,PHPMailer,Twilio
